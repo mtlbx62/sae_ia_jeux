@@ -30,7 +30,7 @@ Jeu d'horreur survival en mode texte. Vous êtes le dernier opérateur d'un post
 
 # Compilation et exécution (Version : Linux)
 
-## Linux
+## Linux (Terminal)
 ## Compiler
 make
 
