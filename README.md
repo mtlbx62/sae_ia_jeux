@@ -1,4 +1,4 @@
-# sae_ia_jeux - Dernière Nuit au Poste 77 / Last Night at Outpost 77
+# SAE_jeux - Dernière Nuit au Poste 77 / Last Night at Outpost 77
 
 ## Auteurs
 [Talbi Marouan] - [Pierrot Alexandra]
