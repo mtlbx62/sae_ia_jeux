@@ -28,14 +28,14 @@ Jeu d'horreur survival en mode texte. Vous êtes le dernier opérateur d'un post
   - Actions avec conséquences
   - Conditions de victoire/défaite
 
-## Compilation et exécution
+# Compilation et exécution
 
 
-# Compiler
+## Compiler
 make
 
-# Exécuter
+## Exécuter
 ./poste77
 
-# Nettoyer
+## Nettoyer
 make clean
