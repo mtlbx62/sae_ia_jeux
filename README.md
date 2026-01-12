@@ -26,11 +26,11 @@ Jeu d'horreur survival en mode texte. Vous êtes le dernier opérateur d'un post
   - Système de ressources (énergie, santé mentale)
   - Journal des événements
   - Actions avec conséquences
-  - Conditions de victoire/défaite
+  - Conditions de victoire ou de défaite
 
-# Compilation et exécution
+# Compilation et exécution (Version : Linux)
 
-
+## Linux
 ## Compiler
 make
 
@@ -39,3 +39,10 @@ make
 
 ## Nettoyer
 make clean
+
+# Version Windows
+
+## Windows:
+1. Etre sur que le gcc est executer dans VSC (MinGW recommandé)
+2. Double-cliquer compile.bat
+3. Executer poste77.exe
