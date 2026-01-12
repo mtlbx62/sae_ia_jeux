@@ -13,12 +13,12 @@ Jeu d'horreur survival en mode texte. Vous êtes le dernier opérateur d'un post
 
 ## Fonctionnalités implémentées
 - **Partie obligatoire complète** :
-  - Sélection de langue (FR/EN)
-  - Création de personnage (nom + type)
-  - Système de ressources (énergie, santé mentale)
-  - Journal des événements
-  - Actions avec conséquences
-  - Conditions de victoire ou de défaite
+  - Sélection de diffèrents langages (FR/EN)
+  - Création de personnage (opérateur + nom)
+  - Système de ressources (énergie, santé mentale et vital et la porte)
+  - Journal des événements qui peut se produire au poste
+  - Actions avec conséquences (Choix proposé par l'utilisateur dans le jeux)
+  - Conditions de victoire ou de défaite en fonction des choix qui peuvent avoir des consequences ou autre...
 
 # Compilation et exécution (Version : Linux)
 
