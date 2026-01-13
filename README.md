@@ -1,7 +1,7 @@
 # SAE_jeux - Dernière Nuit au Poste 77 / Last Night at Outpost 77
 
 ## Auteurs
-[Talbi Marouan] - [Pierrot Alexandra]
+Talbi Marouan - Pierrot Alexandra
 
 Développement en C / Anglais
 
@@ -15,7 +15,7 @@ Jeu d'horreur survival en mode texte. Vous êtes le dernier opérateur d'un post
 - **Partie obligatoire complète** :
   - Sélection de diffèrents langages (FR/EN)
   - Création de personnage (opérateur + nom)
-  - Système de ressources (énergie, santé mentale et vital et la porte)
+  - Système de ressources (énergie, santé mentale/vital et la porte)
   - Journal des événements qui peut se produire au poste
   - Actions avec conséquences (Choix proposé par l'utilisateur dans le jeux)
   - Conditions de victoire ou de défaite en fonction des choix qui peuvent avoir des consequences ou autre...
@@ -24,7 +24,7 @@ Jeu d'horreur survival en mode texte. Vous êtes le dernier opérateur d'un post
 
 ## Linux (Terminal)
 ## Compiler
-make
+gcc main.c game.c -o poste_77.exe
 
 ## Exécuter
 ./poste77
